@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Project Overview
-After routine analysis of ride-share data from January 2019 - early May 2019, PyBer is requesting analysis and summarization of ride-share data by city type, as well as a visualization of the total weekly fares by city type.  This analysis showing the differences by city type will aid PyBer in decision-making.
+After routine analysis of ride-share data from January 2019 - early May 2019, PyBer is requesting analysis and summarization of ride-share data by city type, as well as a visualization of the total weekly fares by city type.  This new analysis will exclude rides captured after 4/28/2019.  This analysis showing the differences by city type will aid PyBer in decision-making.
 
 ## Results
 
