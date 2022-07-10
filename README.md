@@ -10,7 +10,7 @@ The summary from all data from January - early May 2019 shows noticeable trends 
 - Also as expected, the Total Fares for larger city types tend to be larger, due to the larger number of rides.
 - The **ratio** of rides to drivers trends smaller in larger city types, meaning there are more drivers than rides in Urban markets.   
 - The Average Fare per Ride and Average Fare per Driver also trend upward in less populated city types.
-- 
+
 ![SummaryDF](https://user-images.githubusercontent.com/106561880/178165497-7691ba25-723c-4cbf-b61c-07cea70cbcb4.png)
 
 The weekly analysis shows that the total fares never cross lines.  It follows the general trend of Total Fares increasing by population size.  Weekly totals in Rural markets never exceed $500.  Weekly totals in Suburban markets range from $750 to $1500.  Weekly totals in Urban markets range from $1600 to nearly $2500.
